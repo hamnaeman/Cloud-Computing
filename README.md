@@ -12,6 +12,9 @@ AWS Account Registered
 Windows inside EC2 
 ![windows ec2](https://user-images.githubusercontent.com/114182679/191885814-2fde293d-11f4-409d-b674-1ffa129fa5c6.jpeg)
 
+Ubuntu
+![Screenshot (47)](https://user-images.githubusercontent.com/114182679/191886025-67fadb6f-bc2f-4970-9141-ff2df4465157.png)
+
 
 
 
